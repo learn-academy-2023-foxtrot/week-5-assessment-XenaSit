@@ -64,3 +64,6 @@ console.log(fullHouse(hand4));
 what is the difference between objects RUBY vs JS vs REACT
 OR
 can i see an example of the same problem shown in those 3 languages
+
+######### 3 ##########
+(: What should i do to become Competent :)
